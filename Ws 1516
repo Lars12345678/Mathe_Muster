@@ -6,11 +6,76 @@
       
 2.
   a)
-      z = 8* exp( i 7/4 pi )
+      z = 8* exp( i 7/4 π )
       
       
-3)
-      8/5    Nennergrad > Zählergrad
-      0      Exp Wachstum schneller als polynom
+3.
+      8/5     Nennergrad > Zählergrad
+      0       Exp Wachstum schneller als Polynom
+      1/5     l'Hopital   (x1)
+      1/18    l'Hopital   (x2)
+      
+4.
+  a)
+      Punktsymmetrie, Ungerade  f(-x) = -f(x)
+      NS: x = 0
+      limes (x-> ±∞) : 0       Nennergrad > Zählergrad
+      
+  b)
+      ∞
+      Σ       5/( k! * 2^(k+1) ) * (-1)^(n+1) * x^k 
+      k = 1
+      
+      R = 1/0 => ∞  => X konvergiert für alle X ∈ ℝ
+      
+5.
+  a)
+      Integral [ln(x) / x^2 dx] = -ln(x)/ ( 3*x^3 ) + 1/ ( 4*x^4 )
+      
+      Mit grenzen = Int. = -1/4
+      
+  b)
+    e^x = t                   t = q - 2                                                     e^x + 2 > 0 
+    
+    Integral [ t / ( t + 2 ) dt] = Integral[ 1 - 2/q dq] = q - 2*ln(q) = t + 2 - 2*ln|t + 2| = e^x + 2 - 2*x*ln(2) 
+    
+6.
 
+    Was soll das "a" denn sein??
+   
+   
+7.
 
+  T(e1) = v1 = 1/13 * ( 5  )
+                      ( 12 )
+  T(e2) = v2 = 1/13 * ( 12 )
+                      ( -5 )
+                      
+  A = ( v1 v2 )
+  
+  p(λ) = 0 => λ1,2 = 1
+  
+8.
+    a)
+      v Eigenvektor => λ1 = 2
+      
+      w nicht Eigenvektor
+      
+    b)
+                  ( 2 )       ( 1 )
+        E-1 = {   ( 1 ) * t + ( 0 ) * q : t,q ∈ ℝ  }
+                  ( 0 )       ( 1 )
+    
+    c)
+        det A = 2
+        
+   
+9.
+    y(x) = -e^( -5x ) + 3e^(-2x)
+    
+10.
+    b)
+                      ∞
+        f(t) ~ 1/2 *  Σ   2*(-1)^(n+1) / (n*π) 
+                      n=1
+    
