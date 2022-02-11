@@ -1,4 +1,13 @@
 # Mathe_Muster
 Lösungen der Klausur, Es wird keine perfektion garantiert
 
-$`\sqrt{2}`$
+Bitte Formate respektieren
+
+Empfehlung hier reinpacken
+
+Mögliche Korrekturen 
+1.
+  a)
+      Blah1
+*** Blah2 ***
+  Beg: ...
