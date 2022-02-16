@@ -53,25 +53,21 @@
       zweiter Teil: kann mir hier bitte jemand sagen, was gemeint ist??
       
       
-9.
+9.a)
+      (-1)         (2)         (3)
+      (1)   +  r * (2)  +  s * (-1)
+      (1)         (-1)         (-2)
+      
+  b)
+      -5x+y-8z = -2     #erst Normalenvektor ausrechnen (Kreuzprodukt) und d = <n,p2>
       
       
+  c) 
+          /n/
+     A = ----- = 3/2 *sqrt(10)
+           2
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+10.b)
+       ∞ 
+8/pi * Σ  sin((2n+1)*(x-pi/2))/(2n+1)  -1
+       0 
