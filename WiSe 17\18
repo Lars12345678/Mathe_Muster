@@ -1,0 +1,77 @@
+1.a)
+      L = (-∞, -1/3) u (1,2)
+  b)
+      für a = 2 und b = -4 ist f stetig
+
+2.a)
+          /z+2i-1/ < 3           # /.../ ist der Betrag
+          z1:= -2i+1
+      --> /z-z1/ < 3             # der Vektor von z1 nach z hat eine Länge kleiner 3
+      Lösung : Kreis mit Radius 3 (Rand ausgeschlossen) um z1 = -2i + 1 ist die Lösungsmenge
+  
+  b) Realteil: 18/5     Imaginärteil: 6/5
+  
+3.a)
+          (-2n²+1)³
+     lim  ----------  = - ∞    "hoch 6" durch "hoch 5"  mit neg VZ
+           3n^5+1
+       
+   b)       n²+3
+     lim  ----------  = 0    Potenzen wachsen schneller als Polynome
+           3^n+2n
+           
+   c)       ______       ______
+     lim  \/ ...    -  \/ ...     = -1/2
+     
+ 4.a)
+      ∞ 
+ -2 * Σ 1/(5^(n+1)) * (x+2)^n
+      0
+       
+      1/(limsup 1/5) = 5     --> Konvergenzintervall (-7,3]
+       
+5.a)
+      y1(x) = c1 * e^(-3x) + c2 * e^(4x)
+  b)
+      y('''') - 4y(''') + 13y('') = 0
+      
+6.a) λ1 = 0   λ2 = 2    λ3 = 5
+     (-1)       (1)          (-1)
+  t* (1)     t* (0)       t* (1)
+     (1)        (-1)         (0)
+      
+      
+7.  A^-1 = ( 5    1   -2 )
+           ( 1    0    0 )
+           (-4  -1/2 -3/2)
+           
+8.a) 
+    e^(-2x)/-2  *  (x²+x-2,5)
+    
+  b)
+      erster Teil:  2/pi
+      zweiter Teil: kann mir hier bitte jemand sagen, was gemeint ist??
+      
+      
+9.
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
